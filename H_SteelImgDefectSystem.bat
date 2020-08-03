@@ -1,0 +1,2 @@
+python H_SteelImgDefectSystem.py
+pause
